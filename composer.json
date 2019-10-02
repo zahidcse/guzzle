@@ -42,6 +42,8 @@
             "dev-master": "6.3-dev"
         }
     },
+    "minimum-stability": "dev",
+    
     "autoload": {
         "psr-4": {
             "GuzzleHttp\\": "src/"
